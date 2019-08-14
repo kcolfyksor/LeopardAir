@@ -1,0 +1,42 @@
+LA2231
+25/08/2018
+0800
+0905
+Kuala Lumpur
+Langkawi
+99
+LA2235
+25/08/2018
+1000
+1145
+Kuala Lumpur
+Kuching
+199
+LA2241
+26/08/2018
+0600
+0840
+Kuala Lumpur
+Kota Kinabalu
+299
+LA2245
+26/08/2018
+1400
+1510
+Kuala Lumpur
+Langkawi
+99
+LA2251
+27/08/2018
+1200
+1355
+Kuala Lumpur
+Kuching
+199
+LA2255
+27/08/2018
+2100
+2340
+Kuala Lumpur
+Kota Kinabalu
+299
